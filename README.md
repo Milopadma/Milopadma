@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mylo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning the T3 stack [init.tips]
-- 📫 How to reach me [milopadma.com]
+- 🌱 I’m currently learning the (T3 stack)[init.tips]
+- 📫 How to reach me (milopadma.com)[milopadma.com]
 
 <!---
 Milopadma/Milopadma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
