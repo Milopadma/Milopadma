@@ -1,4 +1,5 @@
-![removal ai _b9ebf23b-0d63-4b24-a0bc-cd39452c05f9](https://user-images.githubusercontent.com/48256865/193248087-cf4df311-f466-4d18-a237-29e9b2453391.png)
+![newlogo](https://user-images.githubusercontent.com/48256865/193396320-ca0025d2-0113-43b1-9a64-d4da6aeb965b.png)
+
 - mylo, someetimes milo. addicted to caffeine. 
 - currently building with the [T3 stack](https://init.tips/). 
 - check out my newest coolest personal website :) [milopadma.com](https://milopadma.com/)
